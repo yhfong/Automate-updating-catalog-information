@@ -1,4 +1,4 @@
-# Automate-updating-catalog-information
+# Automate updating catalog information
 
 This is the final course project for the Google IT Automation with Python Professional Certificate. 
 
